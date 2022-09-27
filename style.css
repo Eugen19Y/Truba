@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://santeqklasi.ge/wp-content/uploads/2019/12/slaidi222000.jpg);
+    background: cover;
+    
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.836);
+    box-shadow: 20px 0 10px #ccc;
+}
+
+.img{
+    height: 60px;
+    width: 70px;
+    margin-left: 150px;
+    border-radius: 100px;
+}
+
+.text2{
+    list-style: none;
+    text-decoration: none;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+    margin: 100px;
+    transition: 0.6s;
+    padding: 4px;
+}
+
+.text2:hover{
+    font-size: 26px;
+    color: rgb(245, 239, 239);
+    background: linear-gradient(yellow, red);
+    border-radius: 10px;
+}
+
+.card2{
+    background-color: rgb(255, 255, 255);;
+    margin: 90px 100px;
+}
+
+.img3{
+    height: 300px;
+    width: 400px;
+    margin-left: 20px;
+    transition: 0.7s;
+}
+.art{
+    font-size: 25px;
+    margin-left: 20px;
+}
+h1{
+    margin-left: 20px;
+}
+
+.price{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cena{
+    font-size: 35px;
+    font-family: cursive;
+    border: solid 2px green;
+    background-color: green;
+    text-align: center;
+    transition: 0.9s;
+    text-decoration: none;
+}
+.cena2{
+    text-decoration: none;
+    list-style: none;
+}
+.cena:hover{
+    font-size: 35px;
+    font-size: 40px;
+    border-radius: 50px;
+    font-family: cursive;
+    border: solid 2px green;
+    background: linear-gradient(yellow, rgb(219, 106, 13)) 
+}
+
+.img5{
+    height: 300px;
+    width: 400px;
+    margin-left: 190px;
+    transition: 0.7s;
+}
+
+.img8{
+    height: 300px;
+    width: 400px;
+    margin-left: 90px;
+    transition: 0.7s;
+}
+.img3:hover{
+    height: 500px;
+    width: 500px;
+    
+}
+
+.img5:hover{
+    height: 500px;
+    width: 500px;
+    
+}
+
+.img8:hover{
+    height: 500px;
+    width: 500px;
+    
+}
